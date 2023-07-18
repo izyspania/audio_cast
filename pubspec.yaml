@@ -12,7 +12,8 @@ dependencies:
 
   http: ^0.13.4
   mp3_info: ^0.2.0
-  dart_chromecast: ^0.3.3
+  dart_chromecast:
+   git: https://github.com/izyspania/dart_chromecast
   multicast_dns: ^0.3.2
   xml: ^6.2.2
   file: ^6.1.2
